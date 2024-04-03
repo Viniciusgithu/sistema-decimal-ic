@@ -56,7 +56,7 @@ body {
   margin-left: 90%;
 }
 
-.conteudo-box {
+#conteudo-box {
   display: flex;
   gap: 30px;
   justify-content: center;
@@ -99,4 +99,60 @@ footer {
   font-weight: bold;
   bottom: 0;
   text-align: center;
+}
+
+.box:hover{
+  transform: scale(1.1);
+  transition: 1s;
+  cursor: pointer;
+}
+
+.menu-item:hover{
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#equipe{
+  text-align: center;
+  font-size: 32px;
+  margin: 30px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+}
+
+.card {
+  width: calc(25% - 20px); 
+  margin-bottom: 20px; 
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  box-sizing: border-box; 
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.card-info {
+  text-align: center;
+}
+
+.card-info h2 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.card-info p {
+  margin-bottom: 10px;
 }
