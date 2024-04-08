@@ -27,6 +27,10 @@ h2 {
   color: whitesmoke;
   font-size: 30px;
 }
+h3 {
+  color: whitesmoke;
+  font-size: 30px;
+}
 
 ::-webkit-scrollbar {
   width: 10px;
@@ -663,9 +667,7 @@ footer {
   }
 }
 
-h3, a{
-  color: #0a66c2;
-}
+
 
 .fa-github{
   color: black;
