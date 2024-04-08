@@ -479,6 +479,7 @@ h2 {
  width: 100%;
  padding: 0 10px;
  float: left;
+ cursor: pointer;
 
 }
 
@@ -503,6 +504,7 @@ h2 {
   width: 60%;
   height: 80%;
   border: none;
+  cursor: pointer;
 }
 
 .zoom-shadow {
@@ -660,6 +662,15 @@ footer {
     animation-timing-function: ease-out;
   }
 }
+
+h3, a{
+  color: #0a66c2;
+}
+
+.fa-github{
+  color: black;
+}
+
 
 
 
