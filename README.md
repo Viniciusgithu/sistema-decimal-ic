@@ -5,16 +5,16 @@
 
 ### Ajustes e melhorias
 
-O projeto está em desenvolvimento e as atualizações serão voltadas nas seguintes tarefas:
+O projeto foi desenvolvido a partir das seguintes tarefas:
 
 - [x] Desenvolvimento do corpo HTML
 - [x] Desenvolvimento da folha de estilo CSS
 - [x] Aprimoramento das informações conteudistas
-- [ ] Aprimoramento geral
-- [ ] Entrega
+- [x] Aprimoramento geral
+- [x] Entrega
 
 
-## ☕ Requisitos
+## 💻 Requisitos
 
 1. HTML.
 2. CSS.
